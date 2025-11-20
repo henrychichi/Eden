@@ -1,0 +1,8 @@
+{
+  "name": "Eden - SDA Youth Connection",
+  "description": "A clean, modern, and safe social connection app for SDA youth to find friendship and relationships.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
